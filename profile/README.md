@@ -16,5 +16,5 @@ We are driven by a singular mission: to create powerful, user-centric security t
 
 Are you passionate about cybersecurity? Interested in collaborating on the next generation of security tools? Connect with us, and let’s work together to build a safer digital world.
 
-🌐 **Website:** [Error-502.com](https://error-502.com)  
-📧 **Contact:** error502[at]protonmail[dot]com
+🌐 **Website:** (Coming soon) [Error-502.com](https://error-502.com)  
+📧 **Contact:** z3r0s@mail-central.com
