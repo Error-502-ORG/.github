@@ -16,5 +16,5 @@ We are driven by a singular mission: to create powerful, user-centric security t
 
 Are you passionate about cybersecurity? Interested in collaborating on the next generation of security tools? Connect with us, and let’s work together to build a safer digital world.
 
-🌐 **Website:** [Err502.org](https://err502.org)  
-📧 **Contact:** z3r0s@mail-central.com
+🌐 **Website:** [E502.org](https://E502.org)  
+📧 **Contact:** contact@e502.org
